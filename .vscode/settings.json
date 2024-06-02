@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+   "Cargo.lock": true,
+   ".gitignore": true,
+   "rustfmt.toml": true,
+   "target": true,
+   ".vscode": true
+}
+}
